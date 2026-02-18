@@ -7,7 +7,5 @@ Hi there! 👋<br><br>💻 I’m roca8144, a beginner developer passionate about
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roca8144&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
