@@ -3,7 +3,7 @@ Hi there! 👋<br><br>💻 I’m rocaScripts, a beginner developer passionate ab
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Fun Facts:<br>🚫☕ I don’t like coffee<br>🏋️ Gym<br>🎬 Content creation & editing<br>⚽ Soccer
+Fun Facts:<br>🚫☕ I don’t like coffee<br>🏋️ Gym<br>🎬 Content creator & editing<br>⚽ Soccer
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
